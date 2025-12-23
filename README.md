@@ -1,8 +1,8 @@
 # Ex.No.10
 Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 
-## Date:
-## Reg. No.
+## Date:23.12.25
+## Reg. No.25015787
 
 ## Aim:
 To demonstrate how various prompting techniques (query decomposition, decision-making, semantic filtering, etc.) can be employed to create content such as reports, articles, case studies, or creative works like comic books, using ChatGPT or similar models. The objective is to highlight how different prompt structures affect the content's quality, coherence, and structure.
@@ -61,6 +61,17 @@ content generation scenarios:
 2.	Refined Content: A more detailed and structured output, achieved by applying more advanced prompt techniques.
 3.	Multiple Versions: Different versions of the content, showing the effect of prompt changes on the output.
 4.	Final Version: The polished version of the content after incorporating feedback and refining the prompts.
+
+IMPACT OF PROMPT ENGINEERING TECHNIQUES ON CONTENT QUALITY :
+<img width="1024" height="1536" alt="ChatGPT Image Dec 23, 2025, 11_54_51 PM" src="https://github.com/user-attachments/assets/4e85190c-1b80-4f70-8a72-383e1cdfa8e8" />
+
+COMPARATIVE FRAMEWORK OF PROMPT ENGINEERING TECHNIQUES :
+
+<img width="1024" height="1536" alt="ChatGPT Image Dec 23, 2025, 11_57_35 PM" src="https://github.com/user-attachments/assets/cf8ed447-1e0f-4760-a2b5-3be09fcbf0e1" />
+
+OUTPUT :
+[Experiment No 10.docx](https://github.com/user-attachments/files/24316872/Experiment.No.10.docx)
+
 
 ## Conclusion:
 By applying various prompting techniques, you can generate high-quality content for a wide range of use cases, from business reports and case studies to creative works like short stories and articles. This experiment demonstrates how structured prompting can guide AI models like ChatGPT to create coherent, accurate, and engaging outputs tailored to specific needs.
